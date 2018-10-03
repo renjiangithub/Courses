@@ -89,6 +89,7 @@ public:
 */
 int main(int argc, char* argv[])
 {
+	/*this is main function*/
 	TestStruct();
 	TestPoint();
 	int n;
